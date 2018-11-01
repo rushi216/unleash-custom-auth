@@ -1,6 +1,6 @@
 Set following environment variables before running
 
-- POSTGRES_URL
+- DATABASE_URL
 
 - SECRET (Secret to use for session encryption)
 
