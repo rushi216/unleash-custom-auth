@@ -1,0 +1,17 @@
+{
+  "name": "unleash",
+  "description": "unleash",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+    "node": "8"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "cookie-parser": "^1.4.3",
+    "passport-local": "^1.0.0",
+    "unleash-server": "^3.1.1"
+  }
+}
